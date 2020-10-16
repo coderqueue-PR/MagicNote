@@ -1,0 +1,2 @@
+# MagicNote
+Note Web application
